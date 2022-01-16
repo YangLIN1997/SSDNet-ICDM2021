@@ -22,10 +22,10 @@ If you find SSDNet and the new datasets useful in your research, please consider
 
 ```bibtex
 @inproceedings{Yang21SSDNet,
-  author    = {Yang Lin and Irena Koprinska and Mashud Rana},
-  title     = {SSDNet: State Space Decomposition Neural Network for Time Series Forecasting},
-  year = {2021},
-  booktitle={Proceedings of the IEEE International Conference on Data Mining (ICDM)},
+              author    = {Yang Lin and Irena Koprinska and Mashud Rana},
+              title     = {SSDNet: State Space Decomposition Neural Network for Time Series Forecasting},
+              year = {2021},
+              booktitle={Proceedings of the IEEE International Conference on Data Mining (ICDM)},
 }
 ```
 
