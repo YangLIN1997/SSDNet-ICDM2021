@@ -1,4 +1,12 @@
-# SSDNet-State-Space-Decomposition-Neural-Network-for-Time-Series-Forecasting
+SSDNet
+===================================
+
+A **PyTorch** implementation of **SSDNet (ICDM 2021)**.
+
+
+## Abstract
+<p align="justify">
+In this paper, we present SSDNet, a novel deep learning approach for time series forecasting. SSDNet combines the Transformer architecture with state space models to provide probabilistic and interpretable forecasts, including trend and seasonality components and previous time steps important for the prediction. The Transformer architecture is used to learn the temporal patterns and estimate the parameters of the state space model directly and efficiently, without the need for Kalman filters. We comprehensively evaluate the performance of SSDNet on five data sets, showing that SSDNet is an effective method in terms of accuracy and speed, outperforming state-of-the-art deep learning and statistical methods, and able to provide meaningful trend and seasonality components.
 
 ## List of Implementations:
 
