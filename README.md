@@ -1,4 +1,5 @@
 SSDNet
+Author: [Yang Lin](https://yanglin1997.github.io/)
 ===================================
 
 A **PyTorch** implementation of **SSDNet (ICDM 2021)**.
