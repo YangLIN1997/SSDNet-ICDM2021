@@ -5,6 +5,7 @@ Author: [Yang Lin](https://yanglin1997.github.io/)
 E-mail: linyang1997@yahoo.com.au
 
 ===========================================================================
+
 A **PyTorch** implementation of **SSDNet (ICDM 2021)**.
 
 <div style="text-align:center"><img src ="SSDNet.jpg" ,width=100/></div>
