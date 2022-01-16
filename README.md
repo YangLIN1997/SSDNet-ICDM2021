@@ -17,7 +17,7 @@ In this paper, we present SSDNet, a novel deep learning approach for time series
 This repository provides an implementation for SSDNet as described in the paper:
 
 > SSDNet: State Space Decomposition Neural Network for Time Series Forecasting.
-> Yang Lin, Irena Koprinska, Mashud Rana
+> Yang Lin, Irena Koprinska, Mashud Rana.
 > ICDM, 2021.
 > [[Paper]](https://arxiv.org/pdf/2112.10251.pdf)
 
