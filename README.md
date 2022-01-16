@@ -16,6 +16,19 @@ This repository provides an implementation for SSDNet as described in the paper:
 > ICDM, 2021.
 > [[Paper]](https://arxiv.org/pdf/2112.10251.pdf)
 
+**Citing**
+
+If you find SSDNet and the new datasets useful in your research, please consider adding the following citation:
+
+```bibtex
+@inproceedings{Yang21SSDNet,
+  author    = {Yang Lin and Irena Koprinska and Mashud Rana},
+  title     = {SSDNet: State Space Decomposition Neural Network for Time Series Forecasting},
+  year = {2021},
+  booktitle={Proceedings of the IEEE International Conference on Data Mining (ICDM)},
+}
+```
+
 ## List of Implementations:
 
 Sanyo: http://dkasolarcentre.com.au/source/alice-springs/dka-m4-b-phase
