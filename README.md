@@ -3,7 +3,7 @@ SSDNet
 
 A **PyTorch** implementation of **SSDNet (ICDM 2021)**.
 
-<div style="text-align:center"><img src ="SSDNet.jpg" ,width=600/></div>
+<div style="text-align:center"><img src ="SSDNet.jpg" ,width=300/></div>
 
 ## Abstract
 <p align="justify">
