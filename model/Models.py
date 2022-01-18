@@ -223,8 +223,7 @@ def loss_fn(mu: Variable, sigma: Variable, labels: Variable, predict_start):
     likelihood = distribution.log_prob(labels[sigma_index])
     difference = torch.abs(mu - labels)
 
-    # return -0.5*torch.mean(likelihood) + torch.mean(difference)
-    return -torch.mean(likelihood)
+    return -0.5*torch.mean(likelihood) + torch.mean(difference)
 
 
 # if relative is set to True, metrics are not normalized by the scale of labels
